@@ -23,7 +23,7 @@
 
    **解**
    此圆球形电容器的电容及漏电导是并串联的形式如图所示。
-   ![图2](pic/zjooc03-2.png)
+   ![图2]([pic/zjooc03-2.png](https://raw.githubusercontent.com/SpongeBob-hmbb/pic-in-markdown/main/zjooc03-2.png))
    $$
    C_1=\cfrac{4\pi\varepsilon_1}{\cfrac{1}{a}-\cfrac{1}{b}}\quad C_2=\cfrac{4\pi\varepsilon_2}{\cfrac{1}{b}-\cfrac{1}{c}}
    $$
