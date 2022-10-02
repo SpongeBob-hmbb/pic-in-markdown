@@ -1,9 +1,7 @@
 # 恒定电流（电磁场与电磁波第三章作业）
 
 1. 将半径为$a$的半个导电球刚好埋入电导率为$\sigma$的大地中，如下图所示。求接地电阻。
-   ![图1](pic/zjooc03-1.png)
    ![tu](https://raw.githubusercontent.com/SpongeBob-hmbb/pic-in-markdown/main/zjooc03-1.png)
-   ![tttuuu](https://SpongeBob-hmbb.github.io/pic-in-markdown/images/zjooc03-1.png)
    **解**
    设从地线流出的电流为$I$，在大地中作与导体球同心，半径为$r$的半球面，在此半球面上电流密度相同，显然满足关系
    $$
